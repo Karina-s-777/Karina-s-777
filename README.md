@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет 👋
 
 <!--
 - 🔭 I’m currently working on ...
