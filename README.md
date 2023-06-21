@@ -1,7 +1,7 @@
 ### Всем привет! Я начинающий frontend-разработчик 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1TgECF0mNVirC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
 </div>
 
 f
