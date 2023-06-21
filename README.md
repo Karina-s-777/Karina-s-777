@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/OMm2lZaKWAl4na3kAn/giphy.gif" width="100"/>
 </div>
 
+---
 
 ### :hammer_and_wrench: Языки и инструменты
 
@@ -15,12 +16,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
 
 ### 🦁	Мои контакты
 
 - tg: @K_Savilova
 - email: savilovakarina@yandex.ru
+
+---
 
 ### 💬 Немного обо мне: 
 - Мне нравится делать крутые вещи, бизнес-геймификация, создавать новое и учиться на протяжении всей жизни.
