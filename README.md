@@ -1,6 +1,8 @@
 ### Всем привет! Я начинающий frontend-разработчик 👋
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="250" src="https://giphy.com/embed/cwQCUhKible5mGrtMO/video" width="480"></iframe></div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### 🏄‍♂️ Мой стек
 
