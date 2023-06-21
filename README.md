@@ -1,8 +1,6 @@
 ### Всем привет! Я начинающий frontend-разработчик 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/clips/bestfriends-best-friends-adopt-animal-adoption-cwQCUhKible5mGrtMO" width="100"/>
-</div>
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="250" src="https://giphy.com/embed/cwQCUhKible5mGrtMO/video" width="480"></iframe></div>
 
 ### 🏄‍♂️ Мой стек
 
@@ -10,8 +8,8 @@
 
 ### 🦁	Мои контакты
 
-tg: @K_Savilova
-email: savilovakarina@yandex.ru
+- tg: @K_Savilova
+- email: savilovakarina@yandex.ru
 
 - 💬 Немного обо мне: Мне нравится делать крутые вещи, бизнес-геймификация, создавать новое и учиться на протяжении всей жизни.
 - 🌱 Мое хобби: у меня есть три кота, я люблю смотреть различные сериалы (из последних - дорамы), пробовать вкусную еду, собирать милые подарки для близких и готовить )
