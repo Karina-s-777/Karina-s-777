@@ -6,19 +6,11 @@
   <img src="https://media.giphy.com/media/OMm2lZaKWAl4na3kAn/giphy.gif" width="100"/>
 </div>
 
----
-
 <p align="left"> <img src="https: //komarev.com/ghpvc/?username=karina-s-777&label=Profile%20views&color=0e75b6&style=flat" alt="karina-s-777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-tropy.vercel.app/?username=karina-s-777" alt="karina-s-777" /></a> </p>
 
-### 🦁	Мои контакты
-
-- tg: @K_Savilova
-- email: savilovakarina@yandex.ru
-
----
-
+<h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 </p>
 
